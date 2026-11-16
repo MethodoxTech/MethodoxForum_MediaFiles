@@ -538,6 +538,22 @@
       "height": 256
     },
     {
+      "path": "brand/methodox-m.svg",
+      "kind": "brand",
+      "key": "methodox-m",
+      "title": "Methodox",
+      "width": 244,
+      "height": 207
+    },
+    {
+      "path": "brand/forum-logo.svg",
+      "kind": "brand",
+      "key": "forum-logo",
+      "title": "Methodox Forum",
+      "width": 44,
+      "height": 44
+    },
+    {
       "path": "avatars/index.json",
       "kind": "index",
       "key": "avatars",
