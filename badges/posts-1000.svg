@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <title>1,000 posts</title>
+  <defs>
+    <linearGradient id="badge-posts-1000-grad0" gradientUnits="userSpaceOnUse" x1="0" y1="6" x2="0" y2="58">
+      <stop offset="0" stop-color="#6b8ee2"/>
+      <stop offset="1" stop-color="#3f60b0"/>
+    </linearGradient>
+    <clipPath id="badge-posts-1000-clip1" clipPathUnits="userSpaceOnUse">
+      <path d="M19,7 L45,7 C52.18,7 58,12.82 58,20 L58,36 C58,43.18 52.18,49 45,49 L29,49 L15,59.5 L18.5,49 L19,49 C11.82,49 6,43.18 6,36 L6,20 C6,12.82 11.82,7 19,7Z" clip-rule="nonzero"/>
+    </clipPath>
+    <radialGradient id="badge-posts-1000-grad2" gradientUnits="userSpaceOnUse" cx="22" cy="10" r="34">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.42"/>
+      <stop offset="0.6" stop-color="#ffffff" stop-opacity="0.1"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="badge-posts-1000-grad3" gradientUnits="userSpaceOnUse" x1="4" y1="4" x2="60" y2="60">
+      <stop offset="0" stop-color="#fff3b8"/>
+      <stop offset="0.38" stop-color="#e8b13a"/>
+      <stop offset="0.72" stop-color="#9c6512"/>
+      <stop offset="1" stop-color="#e8b13a"/>
+    </linearGradient>
+  </defs>
+  <path d="M19,7 L45,7 C52.18,7 58,12.82 58,20 L58,36 C58,43.18 52.18,49 45,49 L29,49 L15,59.5 L18.5,49 L19,49 C11.82,49 6,43.18 6,36 L6,20 C6,12.82 11.82,7 19,7Z" fill="url(#badge-posts-1000-grad0)"/>
+  <g clip-path="url(#badge-posts-1000-clip1)">
+    <path d="M56,16 C56,25.39 42.57,33 26,33 C9.43,33 -4,25.39 -4,16 C-4,6.61 9.43,-1 26,-1 C42.57,-1 56,6.61 56,16Z" fill="url(#badge-posts-1000-grad2)"/>
+  </g>
+  <g transform="matrix(1 0 0 1 0 1.6)">
+    <path d="M25.1,29 C25.1,31.54 23.04,33.6 20.5,33.6 C17.96,33.6 15.9,31.54 15.9,29 C15.9,26.46 17.96,24.4 20.5,24.4 C23.04,24.4 25.1,26.46 25.1,29Z" fill="#243663" fill-opacity="0.45"/>
+    <path d="M36.6,29 C36.6,31.54 34.54,33.6 32,33.6 C29.46,33.6 27.4,31.54 27.4,29 C27.4,26.46 29.46,24.4 32,24.4 C34.54,24.4 36.6,26.46 36.6,29Z" fill="#243663" fill-opacity="0.45"/>
+    <path d="M48.1,29 C48.1,31.54 46.04,33.6 43.5,33.6 C40.96,33.6 38.9,31.54 38.9,29 C38.9,26.46 40.96,24.4 43.5,24.4 C46.04,24.4 48.1,26.46 48.1,29Z" fill="#243663" fill-opacity="0.45"/>
+  </g>
+  <path d="M25.1,29 C25.1,31.54 23.04,33.6 20.5,33.6 C17.96,33.6 15.9,31.54 15.9,29 C15.9,26.46 17.96,24.4 20.5,24.4 C23.04,24.4 25.1,26.46 25.1,29Z" fill="#ffffff"/>
+  <path d="M36.6,29 C36.6,31.54 34.54,33.6 32,33.6 C29.46,33.6 27.4,31.54 27.4,29 C27.4,26.46 29.46,24.4 32,24.4 C34.54,24.4 36.6,26.46 36.6,29Z" fill="#ffffff"/>
+  <path d="M48.1,29 C48.1,31.54 46.04,33.6 43.5,33.6 C40.96,33.6 38.9,31.54 38.9,29 C38.9,26.46 40.96,24.4 43.5,24.4 C46.04,24.4 48.1,26.46 48.1,29Z" fill="#ffffff"/>
+  <g clip-path="url(#badge-posts-1000-clip1)">
+    <path d="M19,7 L45,7 C52.18,7 58,12.82 58,20 L58,36 C58,43.18 52.18,49 45,49 L29,49 L15,59.5 L18.5,49 L19,49 C11.82,49 6,43.18 6,36 L6,20 C6,12.82 11.82,7 19,7Z" fill="none" stroke="url(#badge-posts-1000-grad3)" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <path d="M19,7 L45,7 C52.18,7 58,12.82 58,20 L58,36 C58,43.18 52.18,49 45,49 L29,49 L15,59.5 L18.5,49 L19,49 C11.82,49 6,43.18 6,36 L6,20 C6,12.82 11.82,7 19,7Z" fill="none" stroke="#141a2b" stroke-opacity="0.45" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <title>Getting started</title>
+  <defs>
+    <linearGradient id="board-getting-started-grad0" gradientUnits="userSpaceOnUse" x1="0" y1="2" x2="0" y2="62">
+      <stop offset="0" stop-color="#3b8262"/>
+      <stop offset="1" stop-color="#2a6e4f"/>
+    </linearGradient>
+    <clipPath id="board-getting-started-clip1" clipPathUnits="userSpaceOnUse">
+      <path d="M13,2 L51,2 C57.08,2 62,6.92 62,13 L62,51 C62,57.08 57.08,62 51,62 L13,62 C6.92,62 2,57.08 2,51 L2,13 C2,6.92 6.92,2 13,2Z" clip-rule="nonzero"/>
+    </clipPath>
+    <radialGradient id="board-getting-started-grad2" gradientUnits="userSpaceOnUse" cx="22" cy="19" r="38">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.36"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <path d="M13,2 L51,2 C57.08,2 62,6.92 62,13 L62,51 C62,57.08 57.08,62 51,62 L13,62 C6.92,62 2,57.08 2,51 L2,13 C2,6.92 6.92,2 13,2Z" fill="url(#board-getting-started-grad0)"/>
+  <g clip-path="url(#board-getting-started-clip1)">
+    <path d="M0,0 L64,0 L64,64 L0,64Z" fill="url(#board-getting-started-grad2)"/>
+    <path d="M0,58 L64,58 L64,64 L0,64Z" fill="#20533c" fill-opacity="0.8"/>
+  </g>
+  <g transform="matrix(0.64 0.64 -0.64 0.64 32 -7.21)">
+    <path d="M32,5 C40.5,11 44,21.5 44,32 L44,43 L20,43 L20,32 C20,21.5 23.5,11 32,5Z" fill="#183d2c" fill-opacity="0.45"/>
+    <path d="M20,33 L11,43 L11,50 L20,45Z" fill="#183d2c" fill-opacity="0.45"/>
+    <path d="M44,33 L53,43 L53,50 L44,45Z" fill="#183d2c" fill-opacity="0.45"/>
+    <path d="M37,25 C37,27.76 34.76,30 32,30 C29.24,30 27,27.76 27,25 C27,22.24 29.24,20 32,20 C34.76,20 37,22.24 37,25Z" fill="#183d2c" fill-opacity="0.45"/>
+    <path d="M25,47 L39,47 C39,53 36,57 32,61 C28,57 25,53 25,47Z" fill="#183d2c" fill-opacity="0.34"/>
+  </g>
+  <g transform="matrix(0.64 0.64 -0.64 0.64 32 -8.83)">
+    <path d="M32,5 C40.5,11 44,21.5 44,32 L44,43 L20,43 L20,32 C20,21.5 23.5,11 32,5Z" fill="#ffffff"/>
+    <path d="M20,33 L11,43 L11,50 L20,45Z" fill="#ffffff"/>
+    <path d="M44,33 L53,43 L53,50 L44,45Z" fill="#ffffff"/>
+    <path d="M37,25 C37,27.76 34.76,30 32,30 C29.24,30 27,27.76 27,25 C27,22.24 29.24,20 32,20 C34.76,20 37,22.24 37,25Z" fill="#2f7a58"/>
+    <path d="M25,47 L39,47 C39,53 36,57 32,61 C28,57 25,53 25,47Z" fill="#ffffff" fill-opacity="0.75"/>
+  </g>
+  <path d="M13,2 L51,2 C57.08,2 62,6.92 62,13 L62,51 C62,57.08 57.08,62 51,62 L13,62 C6.92,62 2,57.08 2,51 L2,13 C2,6.92 6.92,2 13,2Z" fill="none" stroke="#000000" stroke-opacity="0.22" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
