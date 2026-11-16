@@ -29,4 +29,6 @@ The SVGs carry no script, no style sheet and no reference to anything outside th
 
 ## Licence
 
-Copyright © 2026 Methodox Technologies, Inc. The art is made for the Methodox Forum, and no licence to use it elsewhere is granted at present.
+Copyright © 2026 Methodox Technologies, Inc. The art in this repository is licensed under the [Creative Commons Attribution 4.0 International licence](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0; the full text is in [LICENSE](LICENSE)): use it, share it and change it, for any purpose, as long as you credit "Methodox Forum art by Methodox Technologies, Inc." and say if you changed it.
+
+The licence covers the art, not Methodox's marks. The names and logos of Methodox, Methodox One, Divooka and the Methodox Forum are trademarks of Methodox Technologies, Inc. and are not licensed here, and using the art does not suggest that Methodox endorses you or your use.
