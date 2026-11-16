@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <title>Graph Smith</title>
+  <defs>
+    <linearGradient id="rank-3-grad0" gradientUnits="userSpaceOnUse" x1="29.8" y1="0" x2="34.2" y2="0">
+      <stop offset="0" stop-color="#c08a55"/>
+      <stop offset="1" stop-color="#7a4e28"/>
+    </linearGradient>
+    <linearGradient id="rank-3-grad1" gradientUnits="userSpaceOnUse" x1="23.5" y1="0.5" x2="40.5" y2="9.5">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.38" stop-color="#c3cddf"/>
+      <stop offset="0.72" stop-color="#7a87a3"/>
+      <stop offset="1" stop-color="#c3cddf"/>
+    </linearGradient>
+    <linearGradient id="rank-3-grad2" gradientUnits="userSpaceOnUse" x1="0" y1="6" x2="0" y2="58">
+      <stop offset="0" stop-color="#5c7cd2"/>
+      <stop offset="1" stop-color="#314fa1"/>
+    </linearGradient>
+    <clipPath id="rank-3-clip3" clipPathUnits="userSpaceOnUse">
+      <path d="M32,7 C39.35,10.2 47.75,11.6 53,12 L53,31.44 C53,46.52 43.55,53.8 32,59 C20.45,53.8 11,46.52 11,31.44 L11,12 C16.25,11.6 24.65,10.2 32,7Z" clip-rule="nonzero"/>
+    </clipPath>
+    <radialGradient id="rank-3-grad4" gradientUnits="userSpaceOnUse" cx="22" cy="10" r="34">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.42"/>
+      <stop offset="0.6" stop-color="#ffffff" stop-opacity="0.1"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="rank-3-grad5" gradientUnits="userSpaceOnUse" x1="4" y1="4" x2="60" y2="60">
+      <stop offset="0" stop-color="#fff3b8"/>
+      <stop offset="0.38" stop-color="#e8b13a"/>
+      <stop offset="0.72" stop-color="#9c6512"/>
+      <stop offset="1" stop-color="#e8b13a"/>
+    </linearGradient>
+  </defs>
+  <g transform="matrix(0.67 -0.74 0.74 0.67 -14.68 35.03)">
+    <path d="M31.8,4 L32.2,4 C33.3,4 34.2,4.9 34.2,6 L34.2,61 C34.2,62.1 33.3,63 32.2,63 L31.8,63 C30.7,63 29.8,62.1 29.8,61 L29.8,6 C29.8,4.9 30.7,4 31.8,4Z" fill="none" stroke="#141a2b" stroke-opacity="0.45" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M31.8,4 L32.2,4 C33.3,4 34.2,4.9 34.2,6 L34.2,61 C34.2,62.1 33.3,63 32.2,63 L31.8,63 C30.7,63 29.8,62.1 29.8,61 L29.8,6 C29.8,4.9 30.7,4 31.8,4Z" fill="url(#rank-3-grad0)"/>
+    <path d="M25.7,0.5 L38.3,0.5 C39.52,0.5 40.5,1.48 40.5,2.7 L40.5,7.3 C40.5,8.52 39.52,9.5 38.3,9.5 L25.7,9.5 C24.48,9.5 23.5,8.52 23.5,7.3 L23.5,2.7 C23.5,1.48 24.48,0.5 25.7,0.5Z" fill="none" stroke="#141a2b" stroke-opacity="0.45" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M25.7,0.5 L38.3,0.5 C39.52,0.5 40.5,1.48 40.5,2.7 L40.5,7.3 C40.5,8.52 39.52,9.5 38.3,9.5 L25.7,9.5 C24.48,9.5 23.5,8.52 23.5,7.3 L23.5,2.7 C23.5,1.48 24.48,0.5 25.7,0.5Z" fill="url(#rank-3-grad1)"/>
+  </g>
+  <g transform="matrix(0.67 0.74 -0.74 0.67 35.85 -12.53)">
+    <path d="M31.8,4 L32.2,4 C33.3,4 34.2,4.9 34.2,6 L34.2,61 C34.2,62.1 33.3,63 32.2,63 L31.8,63 C30.7,63 29.8,62.1 29.8,61 L29.8,6 C29.8,4.9 30.7,4 31.8,4Z" fill="none" stroke="#141a2b" stroke-opacity="0.45" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M31.8,4 L32.2,4 C33.3,4 34.2,4.9 34.2,6 L34.2,61 C34.2,62.1 33.3,63 32.2,63 L31.8,63 C30.7,63 29.8,62.1 29.8,61 L29.8,6 C29.8,4.9 30.7,4 31.8,4Z" fill="url(#rank-3-grad0)"/>
+    <path d="M25.7,0.5 L38.3,0.5 C39.52,0.5 40.5,1.48 40.5,2.7 L40.5,7.3 C40.5,8.52 39.52,9.5 38.3,9.5 L25.7,9.5 C24.48,9.5 23.5,8.52 23.5,7.3 L23.5,2.7 C23.5,1.48 24.48,0.5 25.7,0.5Z" fill="none" stroke="#141a2b" stroke-opacity="0.45" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M25.7,0.5 L38.3,0.5 C39.52,0.5 40.5,1.48 40.5,2.7 L40.5,7.3 C40.5,8.52 39.52,9.5 38.3,9.5 L25.7,9.5 C24.48,9.5 23.5,8.52 23.5,7.3 L23.5,2.7 C23.5,1.48 24.48,0.5 25.7,0.5Z" fill="url(#rank-3-grad1)"/>
+  </g>
+  <path d="M32,7 C39.35,10.2 47.75,11.6 53,12 L53,31.44 C53,46.52 43.55,53.8 32,59 C20.45,53.8 11,46.52 11,31.44 L11,12 C16.25,11.6 24.65,10.2 32,7Z" fill="url(#rank-3-grad2)"/>
+  <g clip-path="url(#rank-3-clip3)">
+    <path d="M56,16 C56,25.39 42.57,33 26,33 C9.43,33 -4,25.39 -4,16 C-4,6.61 9.43,-1 26,-1 C42.57,-1 56,6.61 56,16Z" fill="url(#rank-3-grad4)"/>
+  </g>
+  <g transform="matrix(1 0 0 1 0 1.6)">
+    <path d="M32,23 C32,30 22,30 22,37" fill="none" stroke="#1b2d5a" stroke-opacity="0.45" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M32,23 C32,30 42,30 42,37" fill="none" stroke="#1b2d5a" stroke-opacity="0.45" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M26,43 L38,43" fill="none" stroke="#1b2d5a" stroke-opacity="0.45" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M29,15 L35,15 C36.38,15 37.5,16.12 37.5,17.5 L37.5,22.5 C37.5,23.88 36.38,25 35,25 L29,25 C27.62,25 26.5,23.88 26.5,22.5 L26.5,17.5 C26.5,16.12 27.62,15 29,15Z" fill="#1b2d5a" fill-opacity="0.45"/>
+    <path d="M26.5,18 L37.5,18 L37.5,19.4 L26.5,19.4Z" fill="#1b2d5a" fill-opacity="0.25"/>
+    <path d="M18.25,36 L24.75,36 C26.27,36 27.5,37.23 27.5,38.75 L27.5,44.25 C27.5,45.77 26.27,47 24.75,47 L18.25,47 C16.73,47 15.5,45.77 15.5,44.25 L15.5,38.75 C15.5,37.23 16.73,36 18.25,36Z" fill="#1b2d5a" fill-opacity="0.45"/>
+    <path d="M15.5,39.3 L27.5,39.3 L27.5,40.7 L15.5,40.7Z" fill="#1b2d5a" fill-opacity="0.25"/>
+    <path d="M39.25,36 L45.75,36 C47.27,36 48.5,37.23 48.5,38.75 L48.5,44.25 C48.5,45.77 47.27,47 45.75,47 L39.25,47 C37.73,47 36.5,45.77 36.5,44.25 L36.5,38.75 C36.5,37.23 37.73,36 39.25,36Z" fill="#1b2d5a" fill-opacity="0.45"/>
+    <path d="M36.5,39.3 L48.5,39.3 L48.5,40.7 L36.5,40.7Z" fill="#1b2d5a" fill-opacity="0.25"/>
+  </g>
+  <path d="M32,23 C32,30 22,30 22,37" fill="none" stroke="#ffffff" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M32,23 C32,30 42,30 42,37" fill="none" stroke="#ffffff" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M26,43 L38,43" fill="none" stroke="#ffffff" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M29,15 L35,15 C36.38,15 37.5,16.12 37.5,17.5 L37.5,22.5 C37.5,23.88 36.38,25 35,25 L29,25 C27.62,25 26.5,23.88 26.5,22.5 L26.5,17.5 C26.5,16.12 27.62,15 29,15Z" fill="#ffffff"/>
+  <path d="M26.5,18 L37.5,18 L37.5,19.4 L26.5,19.4Z" fill="#2f4fa8" fill-opacity="0.55"/>
+  <path d="M18.25,36 L24.75,36 C26.27,36 27.5,37.23 27.5,38.75 L27.5,44.25 C27.5,45.77 26.27,47 24.75,47 L18.25,47 C16.73,47 15.5,45.77 15.5,44.25 L15.5,38.75 C15.5,37.23 16.73,36 18.25,36Z" fill="#ffffff"/>
+  <path d="M15.5,39.3 L27.5,39.3 L27.5,40.7 L15.5,40.7Z" fill="#2f4fa8" fill-opacity="0.55"/>
+  <path d="M39.25,36 L45.75,36 C47.27,36 48.5,37.23 48.5,38.75 L48.5,44.25 C48.5,45.77 47.27,47 45.75,47 L39.25,47 C37.73,47 36.5,45.77 36.5,44.25 L36.5,38.75 C36.5,37.23 37.73,36 39.25,36Z" fill="#ffffff"/>
+  <path d="M36.5,39.3 L48.5,39.3 L48.5,40.7 L36.5,40.7Z" fill="#2f4fa8" fill-opacity="0.55"/>
+  <g clip-path="url(#rank-3-clip3)">
+    <path d="M32,7 C39.35,10.2 47.75,11.6 53,12 L53,31.44 C53,46.52 43.55,53.8 32,59 C20.45,53.8 11,46.52 11,31.44 L11,12 C16.25,11.6 24.65,10.2 32,7Z" fill="none" stroke="url(#rank-3-grad5)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <path d="M32,7 C39.35,10.2 47.75,11.6 53,12 L53,31.44 C53,46.52 43.55,53.8 32,59 C20.45,53.8 11,46.52 11,31.44 L11,12 C16.25,11.6 24.65,10.2 32,7Z" fill="none" stroke="#141a2b" stroke-opacity="0.45" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

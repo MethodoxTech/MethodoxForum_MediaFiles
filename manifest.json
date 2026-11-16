@@ -1,0 +1,553 @@
+{
+  "generator": "Parcel NExT, Parcel.NExT/Utilities/ForumArt",
+  "files": [
+    {
+      "path": "badges/first-post.svg",
+      "kind": "badge",
+      "key": "first-post",
+      "title": "First post",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "badges/posts-10.svg",
+      "kind": "badge",
+      "key": "posts-10",
+      "title": "10 posts",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "badges/posts-100.svg",
+      "kind": "badge",
+      "key": "posts-100",
+      "title": "100 posts",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "badges/posts-1000.svg",
+      "kind": "badge",
+      "key": "posts-1000",
+      "title": "1,000 posts",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "badges/solution-1.svg",
+      "kind": "badge",
+      "key": "solution-1",
+      "title": "First solution",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "badges/solution-10.svg",
+      "kind": "badge",
+      "key": "solution-10",
+      "title": "10 solutions",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "badges/solution-100.svg",
+      "kind": "badge",
+      "key": "solution-100",
+      "title": "100 solutions",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "badges/thanked-10.svg",
+      "kind": "badge",
+      "key": "thanked-10",
+      "title": "Thanked 10 times",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "badges/thanked-100.svg",
+      "kind": "badge",
+      "key": "thanked-100",
+      "title": "Thanked 100 times",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "badges/graph.svg",
+      "kind": "badge",
+      "key": "graph",
+      "title": "Shared a graph",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "badges/bug-hunter.svg",
+      "kind": "badge",
+      "key": "bug-hunter",
+      "title": "Bug hunter",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "badges/beta-tester.svg",
+      "kind": "badge",
+      "key": "beta-tester",
+      "title": "Beta tester",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "badges/helper.svg",
+      "kind": "badge",
+      "key": "helper",
+      "title": "Helper of the month",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "badges/package-author.svg",
+      "kind": "badge",
+      "key": "package-author",
+      "title": "Package author",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "badges/year-1.svg",
+      "kind": "badge",
+      "key": "year-1",
+      "title": "Member for 1 year",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "badges/year-2.svg",
+      "kind": "badge",
+      "key": "year-2",
+      "title": "Member for 2 years",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "badges/year-3.svg",
+      "kind": "badge",
+      "key": "year-3",
+      "title": "Member for 3 years",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "badges/year-4.svg",
+      "kind": "badge",
+      "key": "year-4",
+      "title": "Member for 4 years",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "badges/year-5.svg",
+      "kind": "badge",
+      "key": "year-5",
+      "title": "Member for 5 years",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "badges/year-6.svg",
+      "kind": "badge",
+      "key": "year-6",
+      "title": "Member for 6 years",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "badges/year-7.svg",
+      "kind": "badge",
+      "key": "year-7",
+      "title": "Member for 7 years",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "badges/year-8.svg",
+      "kind": "badge",
+      "key": "year-8",
+      "title": "Member for 8 years",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "badges/year-9.svg",
+      "kind": "badge",
+      "key": "year-9",
+      "title": "Member for 9 years",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "badges/year-10.svg",
+      "kind": "badge",
+      "key": "year-10",
+      "title": "Member for 10 years",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "ranks/1.svg",
+      "kind": "rank",
+      "key": "1",
+      "title": "Fresh Node",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "ranks/2.svg",
+      "kind": "rank",
+      "key": "2",
+      "title": "Wire Runner",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "ranks/3.svg",
+      "kind": "rank",
+      "key": "3",
+      "title": "Graph Smith",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "ranks/4.svg",
+      "kind": "rank",
+      "key": "4",
+      "title": "Pipeline Architect",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "ranks/5.svg",
+      "kind": "rank",
+      "key": "5",
+      "title": "Divooka Sage",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "boards/1.svg",
+      "kind": "board",
+      "key": "announcements",
+      "title": "Announcements",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "boards/2.svg",
+      "kind": "board",
+      "key": "help-and-questions",
+      "title": "Help & Questions",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "boards/3.svg",
+      "kind": "board",
+      "key": "graph-showcase",
+      "title": "Graph Showcase",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "boards/4.svg",
+      "kind": "board",
+      "key": "packages",
+      "title": "Packages & Divooka Central",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "boards/5.svg",
+      "kind": "board",
+      "key": "bug-reports",
+      "title": "Bug Reports",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "boards/6.svg",
+      "kind": "board",
+      "key": "ideas",
+      "title": "Ideas & Feature Requests",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "boards/7.svg",
+      "kind": "board",
+      "key": "methodox-one",
+      "title": "Methodox One & divooka.app",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "boards/8.svg",
+      "kind": "board",
+      "key": "lounge",
+      "title": "The Lounge",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "boards/9.svg",
+      "kind": "board",
+      "key": "getting-started",
+      "title": "Getting started",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "boards/10.svg",
+      "kind": "board",
+      "key": "data-and-tables",
+      "title": "Data & tables",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "avatars/01.svg",
+      "kind": "avatar",
+      "key": "01",
+      "title": "Fox",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "avatars/02.svg",
+      "kind": "avatar",
+      "key": "02",
+      "title": "Owl",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "avatars/03.svg",
+      "kind": "avatar",
+      "key": "03",
+      "title": "Tabby cat",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "avatars/04.svg",
+      "kind": "avatar",
+      "key": "04",
+      "title": "Otter",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "avatars/05.svg",
+      "kind": "avatar",
+      "key": "05",
+      "title": "Penguin",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "avatars/06.svg",
+      "kind": "avatar",
+      "key": "06",
+      "title": "Brown bear",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "avatars/07.svg",
+      "kind": "avatar",
+      "key": "07",
+      "title": "Frog",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "avatars/08.svg",
+      "kind": "avatar",
+      "key": "08",
+      "title": "Rabbit",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "avatars/09.svg",
+      "kind": "avatar",
+      "key": "09",
+      "title": "Panda",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "avatars/10.svg",
+      "kind": "avatar",
+      "key": "10",
+      "title": "Raccoon",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "avatars/11.svg",
+      "kind": "avatar",
+      "key": "11",
+      "title": "Octopus",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "avatars/12.svg",
+      "kind": "avatar",
+      "key": "12",
+      "title": "Robot",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "avatars/13.svg",
+      "kind": "avatar",
+      "key": "13",
+      "title": "Node bot",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "avatars/14.svg",
+      "kind": "avatar",
+      "key": "14",
+      "title": "Hedgehog",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "avatars/15.svg",
+      "kind": "avatar",
+      "key": "15",
+      "title": "Koala",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "avatars/16.svg",
+      "kind": "avatar",
+      "key": "16",
+      "title": "Lion",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "avatars/17.svg",
+      "kind": "avatar",
+      "key": "17",
+      "title": "Corgi",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "avatars/18.svg",
+      "kind": "avatar",
+      "key": "18",
+      "title": "Mouse",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "avatars/19.svg",
+      "kind": "avatar",
+      "key": "19",
+      "title": "Tiger",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "avatars/20.svg",
+      "kind": "avatar",
+      "key": "20",
+      "title": "Monkey",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "avatars/21.svg",
+      "kind": "avatar",
+      "key": "21",
+      "title": "Duckling",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "avatars/22.svg",
+      "kind": "avatar",
+      "key": "22",
+      "title": "Dhole",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "avatars/23.svg",
+      "kind": "avatar",
+      "key": "23",
+      "title": "Red panda",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "avatars/24.svg",
+      "kind": "avatar",
+      "key": "24",
+      "title": "Axolotl",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "avatars/25.svg",
+      "kind": "avatar",
+      "key": "25",
+      "title": "Sloth",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "avatars/26.svg",
+      "kind": "avatar",
+      "key": "26",
+      "title": "Seal",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "avatars/27.svg",
+      "kind": "avatar",
+      "key": "27",
+      "title": "Dragon",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "avatars/28.svg",
+      "kind": "avatar",
+      "key": "28",
+      "title": "Deer",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "avatars/index.json",
+      "kind": "index",
+      "key": "avatars",
+      "title": "The avatar gallery"
+    },
+    {
+      "path": "manifest.json",
+      "kind": "manifest",
+      "key": "manifest",
+      "title": "This list"
+    }
+  ]
+}

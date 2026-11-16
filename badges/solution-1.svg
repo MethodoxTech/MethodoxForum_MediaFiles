@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <title>First solution</title>
+  <defs>
+    <linearGradient id="badge-solution-1-grad0" gradientUnits="userSpaceOnUse" x1="0" y1="6" x2="0" y2="58">
+      <stop offset="0" stop-color="#509d7b"/>
+      <stop offset="1" stop-color="#266e4e"/>
+    </linearGradient>
+    <clipPath id="badge-solution-1-clip1" clipPathUnits="userSpaceOnUse">
+      <path d="M59,32 C59,46.91 46.91,59 32,59 C17.09,59 5,46.91 5,32 C5,17.09 17.09,5 32,5 C46.91,5 59,17.09 59,32Z" clip-rule="nonzero"/>
+    </clipPath>
+    <radialGradient id="badge-solution-1-grad2" gradientUnits="userSpaceOnUse" cx="22" cy="10" r="34">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.42"/>
+      <stop offset="0.6" stop-color="#ffffff" stop-opacity="0.1"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="badge-solution-1-grad3" gradientUnits="userSpaceOnUse" x1="4" y1="4" x2="60" y2="60">
+      <stop offset="0" stop-color="#f8d3ad"/>
+      <stop offset="0.38" stop-color="#cd8a55"/>
+      <stop offset="0.72" stop-color="#874c25"/>
+      <stop offset="1" stop-color="#cd8a55"/>
+    </linearGradient>
+  </defs>
+  <path d="M59,32 C59,46.91 46.91,59 32,59 C17.09,59 5,46.91 5,32 C5,17.09 17.09,5 32,5 C46.91,5 59,17.09 59,32Z" fill="url(#badge-solution-1-grad0)"/>
+  <g clip-path="url(#badge-solution-1-clip1)">
+    <path d="M56,16 C56,25.39 42.57,33 26,33 C9.43,33 -4,25.39 -4,16 C-4,6.61 9.43,-1 26,-1 C42.57,-1 56,6.61 56,16Z" fill="url(#badge-solution-1-grad2)"/>
+  </g>
+  <g transform="matrix(1 0 0 1 0 1.6)">
+    <path d="M19.5,32.5 L28,41 L44.5,23.5" fill="none" stroke="#153e2c" stroke-opacity="0.45" stroke-width="7.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <path d="M19.5,32.5 L28,41 L44.5,23.5" fill="none" stroke="#ffffff" stroke-width="7.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g clip-path="url(#badge-solution-1-clip1)">
+    <path d="M59,32 C59,46.91 46.91,59 32,59 C17.09,59 5,46.91 5,32 C5,17.09 17.09,5 32,5 C46.91,5 59,17.09 59,32Z" fill="none" stroke="url(#badge-solution-1-grad3)" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <path d="M59,32 C59,46.91 46.91,59 32,59 C17.09,59 5,46.91 5,32 C5,17.09 17.09,5 32,5 C46.91,5 59,17.09 59,32Z" fill="none" stroke="#141a2b" stroke-opacity="0.45" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <title>Graph Showcase</title>
+  <defs>
+    <linearGradient id="board-graph-showcase-grad0" gradientUnits="userSpaceOnUse" x1="0" y1="2" x2="0" y2="62">
+      <stop offset="0" stop-color="#557ad8"/>
+      <stop offset="1" stop-color="#4367c1"/>
+    </linearGradient>
+    <clipPath id="board-graph-showcase-clip1" clipPathUnits="userSpaceOnUse">
+      <path d="M13,2 L51,2 C57.08,2 62,6.92 62,13 L62,51 C62,57.08 57.08,62 51,62 L13,62 C6.92,62 2,57.08 2,51 L2,13 C2,6.92 6.92,2 13,2Z" clip-rule="nonzero"/>
+    </clipPath>
+    <radialGradient id="board-graph-showcase-grad2" gradientUnits="userSpaceOnUse" cx="22" cy="19" r="38">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.36"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <path d="M13,2 L51,2 C57.08,2 62,6.92 62,13 L62,51 C62,57.08 57.08,62 51,62 L13,62 C6.92,62 2,57.08 2,51 L2,13 C2,6.92 6.92,2 13,2Z" fill="url(#board-graph-showcase-grad0)"/>
+  <g clip-path="url(#board-graph-showcase-clip1)">
+    <path d="M0,0 L64,0 L64,64 L0,64Z" fill="url(#board-graph-showcase-grad2)"/>
+    <path d="M0,58 L64,58 L64,64 L0,64Z" fill="#324e92" fill-opacity="0.8"/>
+  </g>
+  <g transform="matrix(0.9 0 0 0.9 3.2 4.72)">
+    <path d="M28,23 C37,23 27,43 36,43" fill="none" stroke="#25396b" stroke-opacity="0.45" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M16,13.5 L24.5,13.5 C26.43,13.5 28,15.07 28,17 L28,27 C28,28.93 26.43,30.5 24.5,30.5 L16,30.5 C14.07,30.5 12.5,28.93 12.5,27 L12.5,17 C12.5,15.07 14.07,13.5 16,13.5Z" fill="#25396b" fill-opacity="0.45"/>
+    <path d="M39.5,33.5 L48,33.5 C49.93,33.5 51.5,35.07 51.5,37 L51.5,47 C51.5,48.93 49.93,50.5 48,50.5 L39.5,50.5 C37.57,50.5 36,48.93 36,47 L36,37 C36,35.07 37.57,33.5 39.5,33.5Z" fill="#25396b" fill-opacity="0.45"/>
+    <path d="M12.5,18.5 L28,18.5 L28,20.5 L12.5,20.5Z" fill="#25396b" fill-opacity="0.45"/>
+    <path d="M36,38.5 L51.5,38.5 L51.5,40.5 L36,40.5Z" fill="#25396b" fill-opacity="0.45"/>
+    <path d="M29.9,25.5 C29.9,26.55 29.05,27.4 28,27.4 C26.95,27.4 26.1,26.55 26.1,25.5 C26.1,24.45 26.95,23.6 28,23.6 C29.05,23.6 29.9,24.45 29.9,25.5Z" fill="#25396b" fill-opacity="0.45"/>
+    <path d="M37.9,45.5 C37.9,46.55 37.05,47.4 36,47.4 C34.95,47.4 34.1,46.55 34.1,45.5 C34.1,44.45 34.95,43.6 36,43.6 C37.05,43.6 37.9,44.45 37.9,45.5Z" fill="#25396b" fill-opacity="0.45"/>
+  </g>
+  <g transform="matrix(0.9 0 0 0.9 3.2 3.1)">
+    <path d="M28,23 C37,23 27,43 36,43" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M16,13.5 L24.5,13.5 C26.43,13.5 28,15.07 28,17 L28,27 C28,28.93 26.43,30.5 24.5,30.5 L16,30.5 C14.07,30.5 12.5,28.93 12.5,27 L12.5,17 C12.5,15.07 14.07,13.5 16,13.5Z" fill="#ffffff"/>
+    <path d="M39.5,33.5 L48,33.5 C49.93,33.5 51.5,35.07 51.5,37 L51.5,47 C51.5,48.93 49.93,50.5 48,50.5 L39.5,50.5 C37.57,50.5 36,48.93 36,47 L36,37 C36,35.07 37.57,33.5 39.5,33.5Z" fill="#ffffff"/>
+    <path d="M12.5,18.5 L28,18.5 L28,20.5 L12.5,20.5Z" fill="#4a72d6"/>
+    <path d="M36,38.5 L51.5,38.5 L51.5,40.5 L36,40.5Z" fill="#4a72d6"/>
+    <path d="M29.9,25.5 C29.9,26.55 29.05,27.4 28,27.4 C26.95,27.4 26.1,26.55 26.1,25.5 C26.1,24.45 26.95,23.6 28,23.6 C29.05,23.6 29.9,24.45 29.9,25.5Z" fill="#4a72d6"/>
+    <path d="M37.9,45.5 C37.9,46.55 37.05,47.4 36,47.4 C34.95,47.4 34.1,46.55 34.1,45.5 C34.1,44.45 34.95,43.6 36,43.6 C37.05,43.6 37.9,44.45 37.9,45.5Z" fill="#4a72d6"/>
+  </g>
+  <path d="M13,2 L51,2 C57.08,2 62,6.92 62,13 L62,51 C62,57.08 57.08,62 51,62 L13,62 C6.92,62 2,57.08 2,51 L2,13 C2,6.92 6.92,2 13,2Z" fill="none" stroke="#000000" stroke-opacity="0.22" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

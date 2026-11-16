@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <title>Package author</title>
+  <defs>
+    <clipPath id="badge-package-author-clip0" clipPathUnits="userSpaceOnUse">
+      <path d="M19.66,10.63 L30.5,4.37 C31.43,3.83 32.57,3.83 33.5,4.37 L55.18,16.88 C56.11,17.42 56.68,18.41 56.68,19.48 L56.68,44.52 C56.68,45.59 56.11,46.58 55.18,47.12 L33.5,59.63 C32.57,60.17 31.43,60.17 30.5,59.63 L8.82,47.12 C7.89,46.58 7.32,45.59 7.32,44.52 L7.32,19.48 C7.32,18.41 7.89,17.42 8.82,16.88Z" clip-rule="nonzero"/>
+    </clipPath>
+    <linearGradient id="badge-package-author-grad1" gradientUnits="userSpaceOnUse" x1="4" y1="4" x2="60" y2="60">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.38" stop-color="#f2f5fc"/>
+      <stop offset="0.72" stop-color="#c9d3ea"/>
+      <stop offset="1" stop-color="#f2f5fc"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#badge-package-author-clip0)">
+    <path d="M7.32,17.75 L32,3.5 L56.68,17.75 L32,32Z" fill="#9786e1"/>
+    <path d="M7.32,17.75 L32,32 L32,60.5 L7.32,46.25Z" fill="#6a52d4"/>
+    <path d="M32,32 L56.68,17.75 L56.68,46.25 L32,60.5Z" fill="#503e9f"/>
+    <path d="M19.66,10.63 L44.34,24.88 L44.34,53.38" fill="none" stroke="#ffffff" stroke-opacity="0.92" stroke-width="5"/>
+    <path d="M7.32,17.75 L32,32 L56.68,17.75" fill="none" stroke="#ffffff" stroke-opacity="0.5" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M32,32 L32,60.5" fill="none" stroke="#ffffff" stroke-opacity="0.3" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g clip-path="url(#badge-package-author-clip0)">
+    <path d="M19.66,10.63 L30.5,4.37 C31.43,3.83 32.57,3.83 33.5,4.37 L55.18,16.88 C56.11,17.42 56.68,18.41 56.68,19.48 L56.68,44.52 C56.68,45.59 56.11,46.58 55.18,47.12 L33.5,59.63 C32.57,60.17 31.43,60.17 30.5,59.63 L8.82,47.12 C7.89,46.58 7.32,45.59 7.32,44.52 L7.32,19.48 C7.32,18.41 7.89,17.42 8.82,16.88Z" fill="none" stroke="url(#badge-package-author-grad1)" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <path d="M19.66,10.63 L30.5,4.37 C31.43,3.83 32.57,3.83 33.5,4.37 L55.18,16.88 C56.11,17.42 56.68,18.41 56.68,19.48 L56.68,44.52 C56.68,45.59 56.11,46.58 55.18,47.12 L33.5,59.63 C32.57,60.17 31.43,60.17 30.5,59.63 L8.82,47.12 C7.89,46.58 7.32,45.59 7.32,44.52 L7.32,19.48 C7.32,18.41 7.89,17.42 8.82,16.88Z" fill="none" stroke="#141a2b" stroke-opacity="0.45" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
