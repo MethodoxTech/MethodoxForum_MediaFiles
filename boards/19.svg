@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <title>Methodox Curfew</title>
+  <defs>
+    <linearGradient id="board-methodox-curfew-grad0" gradientUnits="userSpaceOnUse" x1="0" y1="2" x2="0" y2="62">
+      <stop offset="0" stop-color="#bc3f73"/>
+      <stop offset="1" stop-color="#a62e5f"/>
+    </linearGradient>
+    <clipPath id="board-methodox-curfew-clip1" clipPathUnits="userSpaceOnUse">
+      <path d="M13,2 L51,2 C57.08,2 62,6.92 62,13 L62,51 C62,57.08 57.08,62 51,62 L13,62 C6.92,62 2,57.08 2,51 L2,13 C2,6.92 6.92,2 13,2Z" clip-rule="nonzero"/>
+    </clipPath>
+    <radialGradient id="board-methodox-curfew-grad2" gradientUnits="userSpaceOnUse" cx="22" cy="19" r="38">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.36"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="board-methodox-curfew-clip3" clipPathUnits="userSpaceOnUse">
+      <path d="M15.8,21.37 L48.2,21.37 C49.19,21.37 50,22.18 50,23.17 L50,44.32 C50,45.31 49.19,46.12 48.2,46.12 L15.8,46.12 C14.81,46.12 14,45.31 14,44.32 L14,23.17 C14,22.18 14.81,21.37 15.8,21.37Z" clip-rule="nonzero"/>
+    </clipPath>
+    <clipPath id="board-methodox-curfew-clip4" clipPathUnits="userSpaceOnUse">
+      <path d="M15.8,19.75 L48.2,19.75 C49.19,19.75 50,20.56 50,21.55 L50,42.7 C50,43.69 49.19,44.5 48.2,44.5 L15.8,44.5 C14.81,44.5 14,43.69 14,42.7 L14,21.55 C14,20.56 14.81,19.75 15.8,19.75Z" clip-rule="nonzero"/>
+    </clipPath>
+  </defs>
+  <path d="M13,2 L51,2 C57.08,2 62,6.92 62,13 L62,51 C62,57.08 57.08,62 51,62 L13,62 C6.92,62 2,57.08 2,51 L2,13 C2,6.92 6.92,2 13,2Z" fill="url(#board-methodox-curfew-grad0)"/>
+  <g clip-path="url(#board-methodox-curfew-clip1)">
+    <path d="M0,0 L64,0 L64,64 L0,64Z" fill="url(#board-methodox-curfew-grad2)"/>
+    <path d="M0,58 L64,58 L64,64 L0,64Z" fill="#7d2348" fill-opacity="0.8"/>
+  </g>
+  <g transform="matrix(0.9 0 0 0.9 3.2 4.72)">
+    <path d="M7,32 L7,15.5 C7,14.12 8.12,13 9.5,13 L45.96,13 C46.63,13 47.26,13.26 47.73,13.73 L56.27,22.27 C56.74,22.74 57,23.37 57,24.04 L57,48.5 C57,49.88 55.88,51 54.5,51 L9.5,51 C8.12,51 7,49.88 7,48.5Z" fill="#5c1a35" fill-opacity="0.45"/>
+    <path d="M52,18 L49.56,15.56 C48.62,14.62 47,15.28 47,16.62 L47,21.5 C47,22.33 47.67,23 48.5,23 L53.38,23 C54.72,23 55.38,21.38 54.44,20.44Z" fill="#5c1a35" fill-opacity="0.45"/>
+    <path d="M14,18.5 L50,18.5 C51.1,18.5 52,19.4 52,20.5 L52,44 C52,45.1 51.1,46 50,46 L14,46 C12.9,46 12,45.1 12,44 L12,20.5 C12,19.4 12.9,18.5 14,18.5Z" fill="#5c1a35" fill-opacity="0.45"/>
+  </g>
+  <g clip-path="url(#board-methodox-curfew-clip3)">
+    <g transform="matrix(0.9 0 0 0.9 3.2 4.72)">
+      <path d="M8,50 L24,30 L32,39 L39,32 L58,50Z" fill="#5c1a35" fill-opacity="0.45"/>
+      <path d="M45,25 C45,27.21 43.21,29 41,29 C38.79,29 37,27.21 37,25 C37,22.79 38.79,21 41,21 C43.21,21 45,22.79 45,25Z" fill="#5c1a35" fill-opacity="0.45"/>
+    </g>
+  </g>
+  <g transform="matrix(0.9 0 0 0.9 3.2 3.1)">
+    <path d="M7,32 L7,15.5 C7,14.12 8.12,13 9.5,13 L45.96,13 C46.63,13 47.26,13.26 47.73,13.73 L56.27,22.27 C56.74,22.74 57,23.37 57,24.04 L57,48.5 C57,49.88 55.88,51 54.5,51 L9.5,51 C8.12,51 7,49.88 7,48.5Z" fill="#ffffff"/>
+    <path d="M52,18 L49.56,15.56 C48.62,14.62 47,15.28 47,16.62 L47,21.5 C47,22.33 47.67,23 48.5,23 L53.38,23 C54.72,23 55.38,21.38 54.44,20.44Z" fill="#dfa3bc"/>
+    <path d="M14,18.5 L50,18.5 C51.1,18.5 52,19.4 52,20.5 L52,44 C52,45.1 51.1,46 50,46 L14,46 C12.9,46 12,45.1 12,44 L12,20.5 C12,19.4 12.9,18.5 14,18.5Z" fill="#b8336a"/>
+  </g>
+  <g clip-path="url(#board-methodox-curfew-clip4)">
+    <g transform="matrix(0.9 0 0 0.9 3.2 3.1)">
+      <path d="M8,50 L24,30 L32,39 L39,32 L58,50Z" fill="#ffffff"/>
+      <path d="M45,25 C45,27.21 43.21,29 41,29 C38.79,29 37,27.21 37,25 C37,22.79 38.79,21 41,21 C43.21,21 45,22.79 45,25Z" fill="#ffffff"/>
+    </g>
+  </g>
+  <path d="M13,2 L51,2 C57.08,2 62,6.92 62,13 L62,51 C62,57.08 57.08,62 51,62 L13,62 C6.92,62 2,57.08 2,51 L2,13 C2,6.92 6.92,2 13,2Z" fill="none" stroke="#000000" stroke-opacity="0.22" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

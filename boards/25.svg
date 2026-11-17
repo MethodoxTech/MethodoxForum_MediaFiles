@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <title>divooka.app</title>
+  <defs>
+    <linearGradient id="board-divooka-app-grad0" gradientUnits="userSpaceOnUse" x1="0" y1="2" x2="0" y2="62">
+      <stop offset="0" stop-color="#3b91c8"/>
+      <stop offset="1" stop-color="#2a7cb0"/>
+    </linearGradient>
+    <clipPath id="board-divooka-app-clip1" clipPathUnits="userSpaceOnUse">
+      <path d="M13,2 L51,2 C57.08,2 62,6.92 62,13 L62,51 C62,57.08 57.08,62 51,62 L13,62 C6.92,62 2,57.08 2,51 L2,13 C2,6.92 6.92,2 13,2Z" clip-rule="nonzero"/>
+    </clipPath>
+    <radialGradient id="board-divooka-app-grad2" gradientUnits="userSpaceOnUse" cx="22" cy="19" r="38">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.36"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <path d="M13,2 L51,2 C57.08,2 62,6.92 62,13 L62,51 C62,57.08 57.08,62 51,62 L13,62 C6.92,62 2,57.08 2,51 L2,13 C2,6.92 6.92,2 13,2Z" fill="url(#board-divooka-app-grad0)"/>
+  <g clip-path="url(#board-divooka-app-clip1)">
+    <path d="M0,0 L64,0 L64,64 L0,64Z" fill="url(#board-divooka-app-grad2)"/>
+    <path d="M0,58 L64,58 L64,64 L0,64Z" fill="#205e85" fill-opacity="0.8"/>
+  </g>
+  <g transform="matrix(0.9 0 0 0.9 3.2 4.72)">
+    <path d="M12,8 L52,8 C55.31,8 58,10.69 58,14 L58,50 C58,53.31 55.31,56 52,56 L12,56 C8.69,56 6,53.31 6,50 L6,14 C6,10.69 8.69,8 12,8Z" fill="#184562" fill-opacity="0.45"/>
+    <path d="M12.5,18 L51.5,18 C53.16,18 54.5,19.34 54.5,21 L54.5,49.5 C54.5,51.16 53.16,52.5 51.5,52.5 L12.5,52.5 C10.84,52.5 9.5,51.16 9.5,49.5 L9.5,21 C9.5,19.34 10.84,18 12.5,18Z" fill="#184562" fill-opacity="0.45"/>
+    <path d="M14.5,13 C14.5,14.1 13.6,15 12.5,15 C11.4,15 10.5,14.1 10.5,13 C10.5,11.9 11.4,11 12.5,11 C13.6,11 14.5,11.9 14.5,13Z" fill="#184562" fill-opacity="0.45"/>
+    <path d="M20,13 C20,14.1 19.1,15 18,15 C16.9,15 16,14.1 16,13 C16,11.9 16.9,11 18,11 C19.1,11 20,11.9 20,13Z" fill="#184562" fill-opacity="0.45"/>
+    <path d="M25.5,13 C25.5,14.1 24.6,15 23.5,15 C22.4,15 21.5,14.1 21.5,13 C21.5,11.9 22.4,11 23.5,11 C24.6,11 25.5,11.9 25.5,13Z" fill="#184562" fill-opacity="0.45"/>
+    <path d="M32,45 L32,29.5" fill="none" stroke="#184562" stroke-opacity="0.45" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M32,33.5 L26.12,33.5 C24.78,33.5 24.12,31.88 25.06,30.94 L30.94,25.06 C31.53,24.47 32.47,24.47 33.06,25.06 L38.94,30.94 C39.88,31.88 39.22,33.5 37.88,33.5Z" fill="#184562" fill-opacity="0.45"/>
+    <path d="M20,46 L44,46" fill="none" stroke="#184562" stroke-opacity="0.45" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g transform="matrix(0.9 0 0 0.9 3.2 3.1)">
+    <path d="M12,8 L52,8 C55.31,8 58,10.69 58,14 L58,50 C58,53.31 55.31,56 52,56 L12,56 C8.69,56 6,53.31 6,50 L6,14 C6,10.69 8.69,8 12,8Z" fill="#ffffff"/>
+    <path d="M12.5,18 L51.5,18 C53.16,18 54.5,19.34 54.5,21 L54.5,49.5 C54.5,51.16 53.16,52.5 51.5,52.5 L12.5,52.5 C10.84,52.5 9.5,51.16 9.5,49.5 L9.5,21 C9.5,19.34 10.84,18 12.5,18Z" fill="#2f8ac4"/>
+    <path d="M14.5,13 C14.5,14.1 13.6,15 12.5,15 C11.4,15 10.5,14.1 10.5,13 C10.5,11.9 11.4,11 12.5,11 C13.6,11 14.5,11.9 14.5,13Z" fill="#2f8ac4"/>
+    <path d="M20,13 C20,14.1 19.1,15 18,15 C16.9,15 16,14.1 16,13 C16,11.9 16.9,11 18,11 C19.1,11 20,11.9 20,13Z" fill="#2f8ac4"/>
+    <path d="M25.5,13 C25.5,14.1 24.6,15 23.5,15 C22.4,15 21.5,14.1 21.5,13 C21.5,11.9 22.4,11 23.5,11 C24.6,11 25.5,11.9 25.5,13Z" fill="#2f8ac4"/>
+    <path d="M32,45 L32,29.5" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M32,33.5 L26.12,33.5 C24.78,33.5 24.12,31.88 25.06,30.94 L30.94,25.06 C31.53,24.47 32.47,24.47 33.06,25.06 L38.94,30.94 C39.88,31.88 39.22,33.5 37.88,33.5Z" fill="#ffffff"/>
+    <path d="M20,46 L44,46" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <path d="M13,2 L51,2 C57.08,2 62,6.92 62,13 L62,51 C62,57.08 57.08,62 51,62 L13,62 C6.92,62 2,57.08 2,51 L2,13 C2,6.92 6.92,2 13,2Z" fill="none" stroke="#000000" stroke-opacity="0.22" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

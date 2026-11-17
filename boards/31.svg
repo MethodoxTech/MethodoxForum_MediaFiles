@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <title>Methodox Impulse Tutorials</title>
+  <defs>
+    <linearGradient id="board-methodox-impulse-tutorials-grad0" gradientUnits="userSpaceOnUse" x1="0" y1="2" x2="0" y2="62">
+      <stop offset="0" stop-color="#3b6bc8"/>
+      <stop offset="1" stop-color="#2a58b0"/>
+    </linearGradient>
+    <clipPath id="board-methodox-impulse-tutorials-clip1" clipPathUnits="userSpaceOnUse">
+      <path d="M13,2 L51,2 C57.08,2 62,6.92 62,13 L62,51 C62,57.08 57.08,62 51,62 L13,62 C6.92,62 2,57.08 2,51 L2,13 C2,6.92 6.92,2 13,2Z" clip-rule="nonzero"/>
+    </clipPath>
+    <radialGradient id="board-methodox-impulse-tutorials-grad2" gradientUnits="userSpaceOnUse" cx="22" cy="19" r="38">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.36"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <mask id="board-methodox-impulse-tutorials-mask3" maskUnits="userSpaceOnUse" x="0" y="0" width="64" height="64">
+      <rect x="0" y="0" width="64" height="64" fill="#ffffff"/>
+      <path d="M10.02,13.1 L19.04,5.56 C19.55,5.14 20.23,4.99 20.87,5.17 L40.86,10.87 C42.4,11.31 42.83,13.29 41.6,14.32 L25.65,27.66 C25.14,28.08 24.45,28.23 23.82,28.04 L3.82,22.35 C2.28,21.91 1.86,19.92 3.09,18.9Z M14.8,19.57 L30.44,16.25 C33.31,15.64 36.14,17.48 36.76,20.35 L37.86,25.57 C38.48,28.44 36.64,31.27 33.76,31.88 L18.13,35.21 C15.25,35.82 12.42,33.98 11.81,31.1 L10.7,25.89 C10.09,23.01 11.92,20.18 14.8,19.57Z" fill="#000000" fill-rule="nonzero"/>
+    </mask>
+    <mask id="board-methodox-impulse-tutorials-mask4" maskUnits="userSpaceOnUse" x="0" y="0" width="64" height="64">
+      <rect x="0" y="0" width="64" height="64" fill="#ffffff"/>
+      <path d="M10.02,11.48 L19.04,3.94 C19.55,3.52 20.23,3.37 20.87,3.55 L40.86,9.25 C42.4,9.69 42.83,11.67 41.6,12.7 L25.65,26.04 C25.14,26.46 24.45,26.61 23.82,26.42 L3.82,20.73 C2.28,20.29 1.86,18.3 3.09,17.28Z M14.8,17.95 L30.44,14.63 C33.31,14.02 36.14,15.86 36.76,18.73 L37.86,23.95 C38.48,26.82 36.64,29.65 33.76,30.26 L18.13,33.59 C15.25,34.2 12.42,32.36 11.81,29.48 L10.7,24.27 C10.09,21.39 11.92,18.56 14.8,17.95Z" fill="#000000" fill-rule="nonzero"/>
+    </mask>
+  </defs>
+  <path d="M13,2 L51,2 C57.08,2 62,6.92 62,13 L62,51 C62,57.08 57.08,62 51,62 L13,62 C6.92,62 2,57.08 2,51 L2,13 C2,6.92 6.92,2 13,2Z" fill="url(#board-methodox-impulse-tutorials-grad0)"/>
+  <g clip-path="url(#board-methodox-impulse-tutorials-clip1)">
+    <path d="M0,0 L64,0 L64,64 L0,64Z" fill="url(#board-methodox-impulse-tutorials-grad2)"/>
+    <path d="M0,58 L64,58 L64,64 L0,64Z" fill="#204385" fill-opacity="0.8"/>
+  </g>
+  <g mask="url(#board-methodox-impulse-tutorials-mask3)">
+    <g transform="matrix(0.65 0 0 0.65 17.56 19.98)">
+      <path d="M14,32 L14,10.5 C14,9.12 15.12,8 16.5,8 L37.96,8 C38.63,8 39.26,8.26 39.73,8.73 L49.27,18.27 C49.74,18.74 50,19.37 50,20.04 L50,53.5 C50,54.88 48.88,56 47.5,56 L16.5,56 C15.12,56 14,54.88 14,53.5Z" fill="#183162" fill-opacity="0.45"/>
+      <path d="M44.5,13.5 L41.56,10.56 C40.62,9.62 39,10.28 39,11.62 L39,17.5 C39,18.33 39.67,19 40.5,19 L46.38,19 C47.72,19 48.38,17.38 47.44,16.44Z" fill="#183162" fill-opacity="0.45"/>
+      <path d="M20,20 L34,20" fill="none" stroke="#183162" stroke-opacity="0.45" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M20,33 L44,33" fill="none" stroke="#183162" stroke-opacity="0.45" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M20,40 L44,40" fill="none" stroke="#183162" stroke-opacity="0.45" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M20,47 L44,47" fill="none" stroke="#183162" stroke-opacity="0.45" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M20,54 L36,54" fill="none" stroke="#183162" stroke-opacity="0.45" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+  <g transform="matrix(0.65 -0.14 0.14 0.65 -1.83 5.4)">
+    <path d="M17,29 L17,40 C17,45 47,45 47,40 L47,29 L32,36Z" fill="#183162" fill-opacity="0.45"/>
+    <path d="M18.5,18 L31.39,12.27 C31.78,12.1 32.22,12.1 32.61,12.27 L55.92,22.63 C57.1,23.16 57.1,24.84 55.92,25.37 L32.61,35.73 C32.22,35.9 31.78,35.9 31.39,35.73 L8.08,25.37 C6.9,24.84 6.9,23.16 8.08,22.63Z" fill="#183162" fill-opacity="0.45"/>
+    <path d="M32,24 L51,27.5 L51,41" fill="none" stroke="#183162" stroke-opacity="0.45" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M51,27.5 L51,41" fill="none" stroke="#183162" stroke-opacity="0.45" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M49.7,40 L52.3,40 C52.96,40 53.5,40.54 53.5,41.2 L53.5,44.8 C53.5,45.46 52.96,46 52.3,46 L49.7,46 C49.04,46 48.5,45.46 48.5,44.8 L48.5,41.2 C48.5,40.54 49.04,40 49.7,40Z" fill="#183162" fill-opacity="0.45"/>
+  </g>
+  <g mask="url(#board-methodox-impulse-tutorials-mask4)">
+    <g transform="matrix(0.65 0 0 0.65 17.56 18.36)">
+      <path d="M14,32 L14,10.5 C14,9.12 15.12,8 16.5,8 L37.96,8 C38.63,8 39.26,8.26 39.73,8.73 L49.27,18.27 C49.74,18.74 50,19.37 50,20.04 L50,53.5 C50,54.88 48.88,56 47.5,56 L16.5,56 C15.12,56 14,54.88 14,53.5Z" fill="#ffffff"/>
+      <path d="M44.5,13.5 L41.56,10.56 C40.62,9.62 39,10.28 39,11.62 L39,17.5 C39,18.33 39.67,19 40.5,19 L46.38,19 C47.72,19 48.38,17.38 47.44,16.44Z" fill="#a1b8e4"/>
+      <path d="M20,20 L34,20" fill="none" stroke="#2f62c4" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M20,33 L44,33" fill="none" stroke="#2f62c4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M20,40 L44,40" fill="none" stroke="#2f62c4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M20,47 L44,47" fill="none" stroke="#2f62c4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M20,54 L36,54" fill="none" stroke="#2f62c4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+  <g transform="matrix(0.65 -0.14 0.14 0.65 -1.83 3.78)">
+    <path d="M17,29 L17,40 C17,45 47,45 47,40 L47,29 L32,36Z" fill="#ffffff"/>
+    <path d="M18.5,18 L31.39,12.27 C31.78,12.1 32.22,12.1 32.61,12.27 L55.92,22.63 C57.1,23.16 57.1,24.84 55.92,25.37 L32.61,35.73 C32.22,35.9 31.78,35.9 31.39,35.73 L8.08,25.37 C6.9,24.84 6.9,23.16 8.08,22.63Z" fill="#ffffff"/>
+    <path d="M32,24 L51,27.5 L51,41" fill="none" stroke="#2f62c4" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M51,27.5 L51,41" fill="none" stroke="#ffffff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M49.7,40 L52.3,40 C52.96,40 53.5,40.54 53.5,41.2 L53.5,44.8 C53.5,45.46 52.96,46 52.3,46 L49.7,46 C49.04,46 48.5,45.46 48.5,44.8 L48.5,41.2 C48.5,40.54 49.04,40 49.7,40Z" fill="#ffffff"/>
+  </g>
+  <path d="M13,2 L51,2 C57.08,2 62,6.92 62,13 L62,51 C62,57.08 57.08,62 51,62 L13,62 C6.92,62 2,57.08 2,51 L2,13 C2,6.92 6.92,2 13,2Z" fill="none" stroke="#000000" stroke-opacity="0.22" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
