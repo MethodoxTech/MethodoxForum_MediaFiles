@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <title>Quest champion</title>
+  <defs>
+    <linearGradient id="badge-quest-champion-1-grad0" gradientUnits="userSpaceOnUse" x1="0" y1="6" x2="0" y2="58">
+      <stop offset="0" stop-color="#bd7e3f"/>
+      <stop offset="1" stop-color="#8d5215"/>
+    </linearGradient>
+    <clipPath id="badge-quest-champion-1-clip1" clipPathUnits="userSpaceOnUse">
+      <path d="M9.5,34.5 L9.5,11 C9.5,9.62 10.62,8.5 12,8.5 L52,8.5 C53.38,8.5 54.5,9.62 54.5,11 L54.5,56.57 C54.5,58.4 52.6,59.61 50.94,58.84 L33.06,50.49 C32.39,50.18 31.61,50.18 30.94,50.49 L13.06,58.84 C11.4,59.61 9.5,58.4 9.5,56.57Z" clip-rule="nonzero"/>
+    </clipPath>
+    <radialGradient id="badge-quest-champion-1-grad2" gradientUnits="userSpaceOnUse" cx="22" cy="6" r="34">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.42"/>
+      <stop offset="0.6" stop-color="#ffffff" stop-opacity="0.1"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="badge-quest-champion-1-grad3" gradientUnits="userSpaceOnUse" x1="4" y1="4" x2="60" y2="60">
+      <stop offset="0" stop-color="#f8d3ad"/>
+      <stop offset="0.38" stop-color="#cd8a55"/>
+      <stop offset="0.72" stop-color="#874c25"/>
+      <stop offset="1" stop-color="#cd8a55"/>
+    </linearGradient>
+    <linearGradient id="badge-quest-champion-1-grad4" gradientUnits="userSpaceOnUse" x1="3" y1="5" x2="61" y2="12">
+      <stop offset="0" stop-color="#f8d3ad"/>
+      <stop offset="0.38" stop-color="#cd8a55"/>
+      <stop offset="0.72" stop-color="#874c25"/>
+      <stop offset="1" stop-color="#cd8a55"/>
+    </linearGradient>
+  </defs>
+  <path d="M9.5,34.5 L9.5,11 C9.5,9.62 10.62,8.5 12,8.5 L52,8.5 C53.38,8.5 54.5,9.62 54.5,11 L54.5,56.57 C54.5,58.4 52.6,59.61 50.94,58.84 L33.06,50.49 C32.39,50.18 31.61,50.18 30.94,50.49 L13.06,58.84 C11.4,59.61 9.5,58.4 9.5,56.57Z" fill="url(#badge-quest-champion-1-grad0)"/>
+  <g clip-path="url(#badge-quest-champion-1-clip1)">
+    <path d="M56,12 C56,21.39 42.57,29 26,29 C9.43,29 -4,21.39 -4,12 C-4,2.61 9.43,-5 26,-5 C42.57,-5 56,2.61 56,12Z" fill="url(#badge-quest-champion-1-grad2)"/>
+  </g>
+  <g transform="matrix(0.76 0 0 0.76 7.68 8.8)">
+    <path d="M18.5,14.5 L11.5,14.5 C11,24.5 14.5,30 21.5,32 M45.5,14.5 L52.5,14.5 C53,24.5 49.5,30 42.5,32" fill="none" stroke="#4f2e0c" stroke-opacity="0.45" stroke-width="4.8" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M16.5,9.5 L47.5,9.5 L47.5,16.5 C47.5,30.5 40.5,38.5 32,38.5 C23.5,38.5 16.5,30.5 16.5,16.5Z" fill="#4f2e0c" fill-opacity="0.45"/>
+    <path d="M29.2,37 L34.8,37 L34.8,42.5 L37.5,46.5 L26.5,46.5 L29.2,42.5Z" fill="#4f2e0c" fill-opacity="0.45"/>
+    <path d="M26.3,45.5 L37.7,45.5 C38.69,45.5 39.5,46.31 39.5,47.3 L39.5,49.7 C39.5,50.69 38.69,51.5 37.7,51.5 L26.3,51.5 C25.31,51.5 24.5,50.69 24.5,49.7 L24.5,47.3 C24.5,46.31 25.31,45.5 26.3,45.5Z" fill="#4f2e0c" fill-opacity="0.45"/>
+  </g>
+  <g transform="matrix(0.76 0 0 0.76 7.68 7.2)">
+    <path d="M18.5,14.5 L11.5,14.5 C11,24.5 14.5,30 21.5,32 M45.5,14.5 L52.5,14.5 C53,24.5 49.5,30 42.5,32" fill="none" stroke="#ffffff" stroke-width="4.8" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M16.5,9.5 L47.5,9.5 L47.5,16.5 C47.5,30.5 40.5,38.5 32,38.5 C23.5,38.5 16.5,30.5 16.5,16.5Z" fill="#ffffff"/>
+    <path d="M29.2,37 L34.8,37 L34.8,42.5 L37.5,46.5 L26.5,46.5 L29.2,42.5Z" fill="#ffffff"/>
+    <path d="M26.3,45.5 L37.7,45.5 C38.69,45.5 39.5,46.31 39.5,47.3 L39.5,49.7 C39.5,50.69 38.69,51.5 37.7,51.5 L26.3,51.5 C25.31,51.5 24.5,50.69 24.5,49.7 L24.5,47.3 C24.5,46.31 25.31,45.5 26.3,45.5Z" fill="#ffffff"/>
+  </g>
+  <g clip-path="url(#badge-quest-champion-1-clip1)">
+    <path d="M9.5,34.5 L9.5,11 C9.5,9.62 10.62,8.5 12,8.5 L52,8.5 C53.38,8.5 54.5,9.62 54.5,11 L54.5,56.57 C54.5,58.4 52.6,59.61 50.94,58.84 L33.06,50.49 C32.39,50.18 31.61,50.18 30.94,50.49 L13.06,58.84 C11.4,59.61 9.5,58.4 9.5,56.57Z" fill="none" stroke="url(#badge-quest-champion-1-grad3)" stroke-width="8.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <path d="M9.5,34.5 L9.5,11 C9.5,9.62 10.62,8.5 12,8.5 L52,8.5 C53.38,8.5 54.5,9.62 54.5,11 L54.5,56.57 C54.5,58.4 52.6,59.61 50.94,58.84 L33.06,50.49 C32.39,50.18 31.61,50.18 30.94,50.49 L13.06,58.84 C11.4,59.61 9.5,58.4 9.5,56.57Z" fill="none" stroke="#141a2b" stroke-opacity="0.45" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M8.5,6.2 L55.5,6.2 C56.88,6.2 58,7.32 58,8.7 L58,8.7 C58,10.08 56.88,11.2 55.5,11.2 L8.5,11.2 C7.12,11.2 6,10.08 6,8.7 L6,8.7 C6,7.32 7.12,6.2 8.5,6.2Z M10.1,8.7 C10.1,10.69 8.49,12.3 6.5,12.3 C4.51,12.3 2.9,10.69 2.9,8.7 C2.9,6.71 4.51,5.1 6.5,5.1 C8.49,5.1 10.1,6.71 10.1,8.7Z M61.1,8.7 C61.1,10.69 59.49,12.3 57.5,12.3 C55.51,12.3 53.9,10.69 53.9,8.7 C53.9,6.71 55.51,5.1 57.5,5.1 C59.49,5.1 61.1,6.71 61.1,8.7Z" fill="url(#badge-quest-champion-1-grad4)"/>
+  <path d="M8.5,6.2 L55.5,6.2 C56.88,6.2 58,7.32 58,8.7 L58,8.7 C58,10.08 56.88,11.2 55.5,11.2 L8.5,11.2 C7.12,11.2 6,10.08 6,8.7 L6,8.7 C6,7.32 7.12,6.2 8.5,6.2Z M10.1,8.7 C10.1,10.69 8.49,12.3 6.5,12.3 C4.51,12.3 2.9,10.69 2.9,8.7 C2.9,6.71 4.51,5.1 6.5,5.1 C8.49,5.1 10.1,6.71 10.1,8.7Z M61.1,8.7 C61.1,10.69 59.49,12.3 57.5,12.3 C55.51,12.3 53.9,10.69 53.9,8.7 C53.9,6.71 55.51,5.1 57.5,5.1 C59.49,5.1 61.1,6.71 61.1,8.7Z" fill="none" stroke="#141a2b" stroke-opacity="0.45" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

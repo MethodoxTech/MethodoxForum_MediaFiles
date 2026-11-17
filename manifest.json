@@ -114,6 +114,62 @@
       "height": 64
     },
     {
+      "path": "badges/curious.svg",
+      "kind": "badge",
+      "key": "curious",
+      "title": "Curious",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "badges/quest-giver.svg",
+      "kind": "badge",
+      "key": "quest-giver",
+      "title": "Quest giver",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "badges/quest-champion-1.svg",
+      "kind": "badge",
+      "key": "quest-champion-1",
+      "title": "Quest champion",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "badges/quest-champion-10.svg",
+      "kind": "badge",
+      "key": "quest-champion-10",
+      "title": "Quest champion, 10 won",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "badges/quest-champion-50.svg",
+      "kind": "badge",
+      "key": "quest-champion-50",
+      "title": "Quest champion, 50 won",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "badges/adventurer.svg",
+      "kind": "badge",
+      "key": "adventurer",
+      "title": "Adventurer",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "badges/pollster.svg",
+      "kind": "badge",
+      "key": "pollster",
+      "title": "Pollster",
+      "width": 64,
+      "height": 64
+    },
+    {
       "path": "badges/year-1.svg",
       "kind": "badge",
       "key": "year-1",
@@ -574,6 +630,38 @@
       "kind": "board",
       "key": "tellus",
       "title": "Tellus",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "boards/44.svg",
+      "kind": "board",
+      "key": "alpha-tests",
+      "title": "Alpha Tests",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "boards/45.svg",
+      "kind": "board",
+      "key": "beta-tests",
+      "title": "Beta Tests",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "boards/46.svg",
+      "kind": "board",
+      "key": "divooka-dev-day",
+      "title": "Divooka Dev Day",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "boards/47.svg",
+      "kind": "board",
+      "key": "resources",
+      "title": "Resources",
       "width": 64,
       "height": 64
     },
