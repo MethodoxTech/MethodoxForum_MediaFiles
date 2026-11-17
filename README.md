@@ -6,9 +6,9 @@ Publicly accessible media files for the Methodox Forum. The forum at `forum.meth
 
 | Path | What it is |
 |---|---|
-| `badges/<key>.svg` | One per badge the forum awards: `first-post`, `posts-10`, `posts-100`, `posts-1000`, `solution-1`, `solution-10`, `solution-100`, `thanked-10`, `thanked-100`, `graph`, `bug-hunter`, `beta-tester`, `helper`, `package-author`, and the yearly `year-1` to `year-10`. Drawn to read at 22 pixels. |
+| `badges/<key>.svg` | One per badge the forum awards: `first-post`, `posts-10`, `posts-100`, `posts-1000`, `solution-1`, `solution-10`, `solution-100`, `thanked-10`, `thanked-100`, `graph`, `bug-hunter`, `beta-tester`, `helper`, `package-author`, `curious`, `quest-giver`, `quest-champion-1`, `quest-champion-10`, `quest-champion-50`, `adventurer`, `pollster`, and the yearly `year-1` to `year-10`. Drawn to read at 22 pixels. |
 | `ranks/<1-5>.svg` | The rank emblems in order: Fresh Node, Wire Runner, Graph Smith, Pipeline Architect, Divooka Sage. |
-| `boards/<board id>.svg` | One tile per board the forum defines, named by the board's number: 43 today, from 1 Announcements to 43 Tellus. Each is the whole lamp tile in the board's colour, to be shown as it is. |
+| `boards/<board id>.svg` | One tile per board the forum defines, named by the board's number: 47 today, from 1 Announcements to 47 Resources. Each is the whole lamp tile in the board's colour, to be shown as it is. |
 | `avatars/<nn>.svg` | The avatar gallery members can choose instead of uploading a photo, square portraits numbered from `01`. |
 | `avatars/index.json` | The gallery in order: `{"avatars":[{"file":"01.svg","title":"Fox"},…]}`. |
 | `brand/methodox-m.svg` | The Methodox M, the brand's mark, in the forum's ink on its own grid of 244 by 207, edge to edge, so whoever places it chooses its margins. |
