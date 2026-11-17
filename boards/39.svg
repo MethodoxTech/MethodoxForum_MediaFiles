@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <title>中文界</title>
+  <defs>
+    <linearGradient id="board-zhongwen-grad0" gradientUnits="userSpaceOnUse" x1="0" y1="2" x2="0" y2="62">
+      <stop offset="0" stop-color="#c8382a"/>
+      <stop offset="1" stop-color="#b02719"/>
+    </linearGradient>
+    <clipPath id="board-zhongwen-clip1" clipPathUnits="userSpaceOnUse">
+      <path d="M13,2 L51,2 C57.08,2 62,6.92 62,13 L62,51 C62,57.08 57.08,62 51,62 L13,62 C6.92,62 2,57.08 2,51 L2,13 C2,6.92 6.92,2 13,2Z" clip-rule="nonzero"/>
+    </clipPath>
+    <radialGradient id="board-zhongwen-grad2" gradientUnits="userSpaceOnUse" cx="22" cy="19" r="38">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.36"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <path d="M13,2 L51,2 C57.08,2 62,6.92 62,13 L62,51 C62,57.08 57.08,62 51,62 L13,62 C6.92,62 2,57.08 2,51 L2,13 C2,6.92 6.92,2 13,2Z" fill="url(#board-zhongwen-grad0)"/>
+  <g clip-path="url(#board-zhongwen-clip1)">
+    <path d="M0,0 L64,0 L64,64 L0,64Z" fill="url(#board-zhongwen-grad2)"/>
+    <path d="M0,58 L64,58 L64,64 L0,64Z" fill="#851d13" fill-opacity="0.8"/>
+  </g>
+  <g transform="matrix(0.9 0 0 0.9 3.2 4.72)">
+    <path d="M17,9 L47,9 C51.97,9 56,13.03 56,18 L56,39 C56,43.97 51.97,48 47,48 L26,48 L14,57 L16.5,48 L17,48 C12.03,48 8,43.97 8,39 L8,18 C8,13.03 12.03,9 17,9Z" fill="#62160e" fill-opacity="0.45"/>
+  </g>
+  <g transform="matrix(0.77 0 0 0.77 7.23 6.5)">
+    <path d="M31,13.5 L33.5,18.5" fill="none" stroke="#62160e" stroke-opacity="0.45" stroke-width="4.4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M19,23 L45,23" fill="none" stroke="#62160e" stroke-opacity="0.45" stroke-width="4.4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M40,25.5 C36,36 29.5,43 18.5,47.5" fill="none" stroke="#62160e" stroke-opacity="0.45" stroke-width="4.4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M24.5,26.5 C29,36 35.5,43 46,47" fill="none" stroke="#62160e" stroke-opacity="0.45" stroke-width="4.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g transform="matrix(0.9 0 0 0.9 3.2 3.1)">
+    <path d="M17,9 L47,9 C51.97,9 56,13.03 56,18 L56,39 C56,43.97 51.97,48 47,48 L26,48 L14,57 L16.5,48 L17,48 C12.03,48 8,43.97 8,39 L8,18 C8,13.03 12.03,9 17,9Z" fill="#ffffff"/>
+  </g>
+  <g transform="matrix(0.77 0 0 0.77 7.23 4.88)">
+    <path d="M31,13.5 L33.5,18.5" fill="none" stroke="#c42b1c" stroke-width="4.4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M19,23 L45,23" fill="none" stroke="#c42b1c" stroke-width="4.4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M40,25.5 C36,36 29.5,43 18.5,47.5" fill="none" stroke="#c42b1c" stroke-width="4.4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M24.5,26.5 C29,36 35.5,43 46,47" fill="none" stroke="#c42b1c" stroke-width="4.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <path d="M13,2 L51,2 C57.08,2 62,6.92 62,13 L62,51 C62,57.08 57.08,62 51,62 L13,62 C6.92,62 2,57.08 2,51 L2,13 C2,6.92 6.92,2 13,2Z" fill="none" stroke="#000000" stroke-opacity="0.22" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <title>Everything Methodox</title>
+  <defs>
+    <linearGradient id="board-everything-methodox-grad0" gradientUnits="userSpaceOnUse" x1="0" y1="2" x2="0" y2="62">
+      <stop offset="0" stop-color="#654ec8"/>
+      <stop offset="1" stop-color="#523cb0"/>
+    </linearGradient>
+    <clipPath id="board-everything-methodox-clip1" clipPathUnits="userSpaceOnUse">
+      <path d="M13,2 L51,2 C57.08,2 62,6.92 62,13 L62,51 C62,57.08 57.08,62 51,62 L13,62 C6.92,62 2,57.08 2,51 L2,13 C2,6.92 6.92,2 13,2Z" clip-rule="nonzero"/>
+    </clipPath>
+    <radialGradient id="board-everything-methodox-grad2" gradientUnits="userSpaceOnUse" cx="22" cy="19" r="38">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.36"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <path d="M13,2 L51,2 C57.08,2 62,6.92 62,13 L62,51 C62,57.08 57.08,62 51,62 L13,62 C6.92,62 2,57.08 2,51 L2,13 C2,6.92 6.92,2 13,2Z" fill="url(#board-everything-methodox-grad0)"/>
+  <g clip-path="url(#board-everything-methodox-clip1)">
+    <path d="M0,0 L64,0 L64,64 L0,64Z" fill="url(#board-everything-methodox-grad2)"/>
+    <path d="M0,58 L64,58 L64,64 L0,64Z" fill="#3e2e85" fill-opacity="0.8"/>
+  </g>
+  <g transform="matrix(0.9 0 0 0.9 3.2 4.72)">
+    <path d="M15.32,39.87 L36.19,19 L36.19,28.13 L15.32,49Z M29.81,39.87 L50.68,19 L50.68,42.62 L44.3,49 L44.3,34.51 L29.81,49Z" fill="#2e2262" fill-opacity="0.45"/>
+    <path d="M16.5,8 Q18.15,13.85 24,15.5 Q18.15,17.15 16.5,23 Q14.85,17.15 9,15.5 Q14.85,13.85 16.5,8Z" fill="#2e2262" fill-opacity="0.45"/>
+  </g>
+  <g transform="matrix(0.9 0 0 0.9 3.2 3.1)">
+    <path d="M15.32,39.87 L36.19,19 L36.19,28.13 L15.32,49Z M29.81,39.87 L50.68,19 L50.68,42.62 L44.3,49 L44.3,34.51 L29.81,49Z" fill="#ffffff"/>
+    <path d="M16.5,8 Q18.15,13.85 24,15.5 Q18.15,17.15 16.5,23 Q14.85,17.15 9,15.5 Q14.85,13.85 16.5,8Z" fill="#ffffff"/>
+  </g>
+  <path d="M13,2 L51,2 C57.08,2 62,6.92 62,13 L62,51 C62,57.08 57.08,62 51,62 L13,62 C6.92,62 2,57.08 2,51 L2,13 C2,6.92 6.92,2 13,2Z" fill="none" stroke="#000000" stroke-opacity="0.22" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

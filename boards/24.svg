@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <title>Methodox Lightning</title>
+  <defs>
+    <linearGradient id="board-methodox-lightning-grad0" gradientUnits="userSpaceOnUse" x1="0" y1="2" x2="0" y2="62">
+      <stop offset="0" stop-color="#cc9131"/>
+      <stop offset="1" stop-color="#b57c20"/>
+    </linearGradient>
+    <clipPath id="board-methodox-lightning-clip1" clipPathUnits="userSpaceOnUse">
+      <path d="M13,2 L51,2 C57.08,2 62,6.92 62,13 L62,51 C62,57.08 57.08,62 51,62 L13,62 C6.92,62 2,57.08 2,51 L2,13 C2,6.92 6.92,2 13,2Z" clip-rule="nonzero"/>
+    </clipPath>
+    <radialGradient id="board-methodox-lightning-grad2" gradientUnits="userSpaceOnUse" cx="22" cy="19" r="38">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.36"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <path d="M13,2 L51,2 C57.08,2 62,6.92 62,13 L62,51 C62,57.08 57.08,62 51,62 L13,62 C6.92,62 2,57.08 2,51 L2,13 C2,6.92 6.92,2 13,2Z" fill="url(#board-methodox-lightning-grad0)"/>
+  <g clip-path="url(#board-methodox-lightning-clip1)">
+    <path d="M0,0 L64,0 L64,64 L0,64Z" fill="url(#board-methodox-lightning-grad2)"/>
+    <path d="M0,58 L64,58 L64,64 L0,64Z" fill="#895e18" fill-opacity="0.8"/>
+  </g>
+  <g transform="matrix(0.9 0 0 0.9 3.2 4.72)">
+    <path d="M39.5,6 L37.61,6 C37.23,6 36.87,6.18 36.64,6.49 L16.4,34.09 C15.82,34.88 16.39,36 17.37,36 L27.5,36 C28.27,36 28.84,36.72 28.67,37.47 L25.23,52.57 C24.95,53.83 26.58,54.59 27.36,53.57 L47.54,26.92 C48.14,26.13 47.58,25 46.59,25 L36.72,25 C35.89,25 35.31,24.17 35.59,23.39 L41.41,7.61 C41.69,6.83 41.11,6 40.28,6Z" fill="#644512" fill-opacity="0.45"/>
+  </g>
+  <g transform="matrix(0.9 0 0 0.9 3.2 3.1)">
+    <path d="M39.5,6 L37.61,6 C37.23,6 36.87,6.18 36.64,6.49 L16.4,34.09 C15.82,34.88 16.39,36 17.37,36 L27.5,36 C28.27,36 28.84,36.72 28.67,37.47 L25.23,52.57 C24.95,53.83 26.58,54.59 27.36,53.57 L47.54,26.92 C48.14,26.13 47.58,25 46.59,25 L36.72,25 C35.89,25 35.31,24.17 35.59,23.39 L41.41,7.61 C41.69,6.83 41.11,6 40.28,6Z" fill="#ffffff"/>
+  </g>
+  <path d="M13,2 L51,2 C57.08,2 62,6.92 62,13 L62,51 C62,57.08 57.08,62 51,62 L13,62 C6.92,62 2,57.08 2,51 L2,13 C2,6.92 6.92,2 13,2Z" fill="none" stroke="#000000" stroke-opacity="0.22" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
