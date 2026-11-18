@@ -666,6 +666,22 @@
       "height": 64
     },
     {
+      "path": "boards/48.svg",
+      "kind": "board",
+      "key": "methodox-splats",
+      "title": "Methodox Splats",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "boards/49.svg",
+      "kind": "board",
+      "key": "methodox-lookdev",
+      "title": "Methodox LookDev",
+      "width": 64,
+      "height": 64
+    },
+    {
       "path": "avatars/01.svg",
       "kind": "avatar",
       "key": "01",
